@@ -1,5 +1,6 @@
-## Developed by: Jones Benedict A P
-## RegisterNumber:212224040142
+## Developed by: SHREEDHAR KUMAR K.J
+## RegisterNumber:212224230265
+
 # Exp:09 T-FLIPFLOP-POSEDGE
 
 **AIM:**
@@ -61,5 +62,6 @@ endmodule
 ![image](https://github.com/user-attachments/assets/ab6d1682-c90c-439d-92ec-9aeb47d413be)
 
 
-**RESULTS**
-Thus T flipflop using verilog and validating their functionality using their functional tables is verified.
+**RESULTS:**
+
+Thus,T flipflop using verilog and validating their functionality using their functional tables is verified.
